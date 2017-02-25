@@ -1,0 +1,3 @@
+this is an apple ,this is an apple-pie.
+apple pie is made by apple. count number of word
+This IS an programme to COUNT number
